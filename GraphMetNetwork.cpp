@@ -15,6 +15,7 @@
 #include <string>
 #include <iostream>
 #include <stdexcept>
+#include <cstdint>
 
 #include "GraphMetNetwork.h"
 

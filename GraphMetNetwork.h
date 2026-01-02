@@ -9,6 +9,7 @@
 #include <vector>
 #include <unordered_map>
 #include "parameters.h"
+#include <cstdint>
 
 class GraphMetNetwork {
     public:
